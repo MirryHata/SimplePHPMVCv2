@@ -14,8 +14,8 @@
  */
 $server = "127.0.0.1";
 $user = "demouser";
-$pswd = "carm3l1t4s";
-$database = "demoalgorith";
+$pswd = "tecnaFOT";
+$database = "nw202003";
 $port = "3306";
 
 $emailHost = 'email-smtp.us-west-2.amazonaws.com';
